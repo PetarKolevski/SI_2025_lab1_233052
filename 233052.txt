@@ -1,0 +1,23 @@
+13. git fetch origin -> додава 3 new branches (од issues-от кои ги отворив)
+
+14. git checkout i-remove-a-task-by-name -> се префрла од master branch i-remove-a-task-by-name, branch за првата функција од кодот 
+
+15. Во кодот ја имплементирав првата функција и направив git add SI2025Lab1Main.java
+
+16. git commit -m "Implemented function 1"
+
+17. git push origin i-remove-a-task-by-name
+
+18. На GitHub креирав pull request
+
+19. Ги повторив чекорите 14-18 за останатите 2 issues
+
+20. На GitHub во pull request-ите на првиот и вториот issue кликнав Merge pull request и со тоа успешноги споив
+
+21. Успешно споените issues беа префрлени во фазата Done
+
+22. git checkout master -> се префрлам на master branch, потоа git pull origin master за локално да се преземат промените направени на GitHub и на крај git merge 7-count-tasks-per-category направи успешно да се спои и issue-то за 7мата функција
+
+23. git push origin master 
+
+24. Успешно е префрлен и третиот issue во фазата Done

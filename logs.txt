@@ -1,0 +1,18 @@
+*   a7f27c6 Merge branch '7-count-tasks-per-category' Merge 7-count-tasks-per-category into master to complete the function 7 of the code
+|\  
+| * baac342 Implemented function 7
+* |   f689f92 Merge pull request #13 from PetarKolevski/2-find-all-completed-tasks
+|\ \  
+| * | 2202fed Implemented function 2
+| |/  
+* |   160013b Merge pull request #12 from PetarKolevski/i-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * 50a29a4 Implemented function 1
+|/  
+| * 89fe04e Implemented function 1
+|/  
+* 01a1981 Add starter code
+* 1b0b5a3 Initial commit
+* 83d0393 Initial commit
